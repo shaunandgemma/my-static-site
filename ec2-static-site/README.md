@@ -1,7 +1,3 @@
-Here’s a complete and corrected **README.md** you can use or upload to GitHub:
-
----
-
 ````markdown
 # 🌐 Host a Static Website on Amazon EC2 (Using VS Code + AWS CLI)
 
