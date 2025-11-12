@@ -103,4 +103,4 @@ If you see “404 NoSuchKey”, make sure `index.html` is at the **root level** 
 
 ## ✅ Result
 
-Your static website is now live on Amazon S3! 🎉
+Your static website is now live on Amazon S3! 🎉!
