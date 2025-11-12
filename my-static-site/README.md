@@ -1,7 +1,6 @@
-````markdown
-# AWS S3 Static Website (Using AWS CLI)
+# 🌐 Deploy a Static Website to Amazon S3 Using the AWS CLI
 
-This guide shows how to host a simple JavaScript website on **Amazon S3** using the **AWS CLI**.
+This guide walks you through hosting a simple HTML/CSS/JavaScript site on **Amazon S3** using the **AWS Command Line Interface (CLI)**.
 
 ---
 
@@ -18,7 +17,6 @@ Example:
 <h1>Hello from S3!</h1>
 <p id="msg"></p>
 <script src="app.js"></script>
-````
 
 ---
 
