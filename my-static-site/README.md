@@ -1,7 +1,3 @@
-Here’s a simple **README.md** you can use on GitHub:
-
----
-
 ````markdown
 # AWS S3 Static Website (Using AWS CLI)
 
