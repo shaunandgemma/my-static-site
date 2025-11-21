@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>404 — Page not found</title>
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    body { display:flex; align-items:center; justify-content:center; min-height:100vh; margin:0; background:#f7f9fc; }
+    .container { max-width:760px; padding:28px; text-align:center; background:white; border-radius:8px; box-shadow:0 6px 20px rgba(20,30,60,0.08); }
+    h1 { font-size:48px; margin:0 0 8px; }
+    p { color:#475569; margin:0 0 18px; }
+    a.button { display:inline-block; margin-top:12px; padding:10px 16px; background:#2563eb; color:white; text-decoration:none; border-radius:6px; }
+    a.inline { color:#2563eb; }
+    .small { margin-top:12px; color:#6b7280; font-size:14px }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>404</h1>
+    <p>Sorry — the page you requested can't be found.</p>
+    <p>Try returning to the homepage, or check that the URL is correct.</p>
+    <a class="button" href="index.html">Go to Home</a>
+    <div class="small">
+      <div>Tips: <a class="inline" href="index.html">Open the index page</a></div>
+      <div style="margin-top:6px">If you host this as an S3 static website, set this file as the error document in the bucket settings.</div>
+    </div>
+  </div>
+</body>
+</html>
